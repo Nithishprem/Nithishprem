@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nithishprem
 - 👀 I’m a full stack web developer 
 - My web development skills are Reactjs, Node.js and Express framework , MongoDB Database.
-- Python, HTML5, CSS, JAVASCRIPT,R\ ES6 syntax and Features
+- Python, HTML5, CSS, JAVASCRIPT, ES6 syntax and Features
 - I also use Firebase service for authetication, firestore database, firebase storage for storing files
 - 
 
